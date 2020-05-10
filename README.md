@@ -26,6 +26,10 @@ And enter to:
 127.0.0.1:5000
 ```
 
+user: admin
+password: admin
+
+
 ## Authors
 
 * **Bitc0de** - [Github](https://github.com/bitc0de)
